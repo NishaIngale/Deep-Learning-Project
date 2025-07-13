@@ -23,8 +23,8 @@ task_2_oct_classification/
 │ ├── train/ # Training images (subfolders CNV, DME, DRUSEN, NORMAL)
 │ └── test/ # Test images
 │
-├── train_model.ipynb # Full notebook with model building & evaluation
-├── model.py # Python script version 
+├── CNN.ipynb # Full notebook with model building & evaluation
+├── CNN.py # Python script version 
 └── README.md # This documentation
 
 ## Run the notebook
@@ -40,7 +40,19 @@ task_2_oct_classification/
 5. Save the final model to oct_cnn_model.h5
 
 ## DATASET : https://data.mendeley.com/datasets/rscbjbr9sj/2
+
 ## IMAGES 
+1.NORMAL 
+![Image](https://github.com/user-attachments/assets/9894d230-9a50-4321-a825-b198e4f223d7)
+
+2.DRUSEN
+![Image](https://github.com/user-attachments/assets/b652a3bc-8e7e-468e-84e4-21d71af812c0)
+
+3.DME
+![Image](https://github.com/user-attachments/assets/b652a3bc-8e7e-468e-84e4-21d71af812c0)
+
+4.CNV
+![Image](https://github.com/user-attachments/assets/80042ed5-b84b-477e-911c-3edd09ff2e92)
 
 
 Built by Nisha during the CODTECH internship
